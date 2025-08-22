@@ -42,5 +42,4 @@ right(90)
 forward(45)
 right(90)
 forward(45)
-
 exitonclick()

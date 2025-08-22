@@ -28,7 +28,6 @@
 # print 28
 # print 29
 # print 30
-
 print(1)
 print(2)
 print(3)
@@ -60,5 +59,4 @@ print(27)
 print(28)
 print(29)
 print(30)
-
 # ფრჩხილები აკლია 
